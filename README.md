@@ -1,5 +1,81 @@
 # Étude de fonctions : Domaine de définition et Limites
 *Niveau Terminale*
+## 📝 Exercice diagnostic (1h max)
+
+### Énoncé
+
+Soit la fonction 
+$f(x) = \frac{x^2 - 1}{x - 1}$
+
+**Questions :**
+
+1. **Domaine de définition :** Déterminer l'ensemble de définition de $f$.
+
+2. **Simplification :** Simplifier l'expression de $f(x)$ quand c'est possible.
+
+3. **Limites :**
+   - $\lim_{x \to 1} f(x)$
+   - $\lim_{x \to +\infty} f(x)$
+   - $\lim_{x \to -\infty} f(x)$
+
+4. **Dérivée :** Calculer $f'(x)$ (sur son domaine).
+
+5. **Variation :** Étudier le signe de $f'(x)$ et dresser le tableau de variation de $f$.
+
+---
+
+## ✅ Correction détaillée
+
+### 1. Domaine
+
+Le dénominateur $x - 1$ ne doit pas être nul →
+
+$D_f = \mathbb{R} \setminus \{1\}$
+
+### 2. Simplification
+
+$f(x) = \frac{x^2 - 1}{x - 1} = \frac{(x-1)(x+1)}{x-1}, \quad x \neq 1$
+
+Donc, pour $x \neq 1$,
+$f(x) = x + 1$
+
+### 3. Limites
+
+- Quand $x \to 1$, $f(x) = x + 1 \to 2$. 
+  
+  ⚠️ **Attention** : la fonction n'est **pas définie** en $x = 1$, donc la limite existe et vaut 2, mais pas $f(1)$.
+
+- Quand $x \to +\infty$, $f(x) = x + 1 \to +\infty$
+
+- Quand $x \to -\infty$, $f(x) = x + 1 \to -\infty$
+
+### 4. Dérivée
+
+Puisque $f(x) = x + 1$ (pour $x \neq 1$),
+
+$f'(x) = 1$
+
+### 5. Variation
+
+Comme $f'(x) = 1 > 0$, la fonction est **strictement croissante** sur chaque intervalle de son domaine :
+
+- $]-\infty, 1[$
+- $]1, +\infty[$
+
+**Tableau de variations :**
+
+| $x$ | $-\infty$ |  | $1$ |  | $+\infty$ |
+|-----|-----------|--|-----|--|-----------|
+| $f(x)$ | $-\infty$ | $\nearrow$ | trou en $x=1$ | $\nearrow$ | $+\infty$ |
+
+---
+
+### 💡 Pourquoi cet exercice est idéal pour une première séance ?
+
+- Il commence simple (domaine)
+- Il oblige à réfléchir sur une simplification
+- Il introduit la limite et la dérivée en douceur
+- Il permet de discuter la différence entre **trou** (point non défini) et asymptote verticale
 
 ---
 
