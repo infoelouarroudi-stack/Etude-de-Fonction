@@ -142,4 +142,107 @@ Ces cas demandent de simplifier l'expression :
 
 ---
 
-*Ce cours couvre les deux premières étapes essentielles de l'étude de fonction en Terminale.*
+## 3️⃣ Dérivée
+
+### Définition
+
+La **dérivée** d'une fonction en un point mesure la **pente de la tangente** en ce point.
+
+$f'(a) = \lim_{h \to 0} \frac{f(a+h) - f(a)}{h}$
+
+### Règles de dérivation usuelles
+
+#### Règles de base
+- $(k)' = 0$ (constante)
+- $(x^n)' = nx^{n-1}$ (puissance)
+- $(u + v)' = u' + v'$ (somme)
+- $(uv)' = u'v + uv'$ (produit)
+- $\left(\frac{u}{v}\right)' = \frac{u'v - uv'}{v^2}$ (quotient)
+
+#### Dérivée composée
+Si $f(x) = u(v(x))$, alors $f'(x) = u'(v(x)) \times v'(x)$
+
+### 📋 Tableau des dérivées des fonctions de base
+
+| Fonction $f(x)$ | Dérivée $f'(x)$ | Domaine de dérivabilité |
+|-----------------|-----------------|-------------------------|
+| $k$ (constante) | $0$ | $\mathbb{R}$ |
+| $x^n$ | $nx^{n-1}$ | $\mathbb{R}$ (si $n \geq 1$) |
+| $\frac{1}{x}$ | $-\frac{1}{x^2}$ | $\mathbb{R}^*$ |
+| $\sqrt{x}$ | $\frac{1}{2\sqrt{x}}$ | $(0,+\infty)$ |
+| $e^x$ | $e^x$ | $\mathbb{R}$ |
+| $\ln(x)$ | $\frac{1}{x}$ | $(0,+\infty)$ |
+| $\sin(x)$ | $\cos(x)$ | $\mathbb{R}$ |
+| $\cos(x)$ | $-\sin(x)$ | $\mathbb{R}$ |
+
+### Exemples de calculs
+
+#### Exemple 1 : Fonction polynomiale
+$f(x) = 3x^4 - 2x^2 + 5x - 1$
+
+$f'(x) = 12x^3 - 4x + 5$
+
+#### Exemple 2 : Fonction rationnelle
+$f(x) = \frac{x^2 + 1}{x - 2}$
+
+En utilisant la règle du quotient :
+$f'(x) = \frac{(2x)(x-2) - (x^2+1)(1)}{(x-2)^2} = \frac{x^2 - 4x - 1}{(x-2)^2}$
+
+#### Exemple 3 : Fonction composée
+$f(x) = e^{x^2}$
+
+$f'(x) = e^{x^2} \times 2x = 2xe^{x^2}$
+
+### Applications de la dérivée
+
+#### A. Tableau de variations
+Le **signe de $f'(x)$** détermine la croissance/décroissance :
+
+- Si $f'(x) > 0$ sur un intervalle → $f$ est **croissante**
+- Si $f'(x) < 0$ sur un intervalle → $f$ est **décroissante**
+- Si $f'(x) = 0$ en un point → point critique (extremum possible)
+
+#### B. Équation de la tangente
+La tangente à la courbe de $f$ au point d'abscisse $x = a$ a pour équation :
+
+$y = f'(a)(x-a) + f(a)$
+
+**Exemple** : Tangente à $f(x) = x^2$ en $x = 2$
+- $f(2) = 4$ et $f'(2) = 4$
+- Équation de la tangente : $y = 4(x-2) + 4 = 4x - 4$
+
+#### C. Extremums locaux
+- Si $f'(a) = 0$ et $f'$ change de signe en $a$ → $a$ est un extremum local
+- Si $f'$ passe du positif au négatif → maximum local
+- Si $f'$ passe du négatif au positif → minimum local
+
+### 🎯 Méthode pour étudier les variations
+
+#### Étape 1 : Calculer $f'(x)$
+Utiliser les règles de dérivation
+
+#### Étape 2 : Déterminer le domaine de $f'$
+Généralement le même que celui de $f$
+
+#### Étape 3 : Résoudre $f'(x) = 0$
+Trouver les points critiques
+
+#### Étape 4 : Étudier le signe de $f'(x)$
+Tableau de signes
+
+#### Étape 5 : Dresser le tableau de variations
+Avec les intervalles de croissance/décroissance et les extremums
+
+---
+
+## ✅ Points clés à retenir
+
+- Toujours commencer par vérifier le **domaine**
+- Connaître par cœur les **limites usuelles** et les **dérivées de base**
+- Savoir reconnaître et traiter les **cas indéterminés**
+- Les limites donnent des informations sur les **asymptotes**
+- La dérivée permet de déterminer les **variations** et l'équation de la **tangente**
+
+---
+
+*Ce cours couvre les trois premières étapes essentielles de l'étude de fonction en Terminale.*
