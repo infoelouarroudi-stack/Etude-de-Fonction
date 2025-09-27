@@ -470,3 +470,73 @@ $2 + 3 \times 2^3$
 
 Veux-tu que je prépare pour toi **un mini-exercice corrigé** sur ce premier cours pour t’entraîner directement ?
 
+
+----------------------------------------------------------------------------
+
+
+Parfait 👌 je vais aussi te résumer et t’aider à réviser cette partie de **technologie**.
+
+### Sujet : Chaîne d’énergie (Chaîne NRJ)
+
+Une chaîne d’énergie explique **comment l’énergie circule et se transforme dans un système technique** (voiture, perceuse, robot, etc.).
+
+#### Les 4 étapes principales :
+
+1. **Alimenter** → Fournir l’énergie (pile, batterie, prise électrique…).
+2. **Distribuer** → Acheminer l’énergie (câbles, interrupteur, carte électronique…).
+3. **Convertir** → Transformer l’énergie en une autre forme utile (moteur transforme énergie électrique → énergie mécanique).
+4. **Transmettre** → Faire passer l’énergie jusqu’à l’organe de sortie (roues, engrenages, courroies…).
+
+---
+
+### Notions d’énergie importantes
+
+* **Énergie électrique** : utilisée dans beaucoup d’appareils.
+* **Énergie mécanique** : mouvement (rotation, translation).
+* **Énergie thermique** : chaleur (exemple moteur thermique).
+* **Énergie chimique** : contenue dans le carburant ou la pile.
+
+👉 Exemple : perceuse électrique
+
+* Alimenter : prise de courant.
+* Distribuer : interrupteur.
+* Convertir : moteur électrique.
+* Transmettre : engrenages + mandrin (qui fait tourner le foret).
+
+---
+
+### Diagramme SysML (simplifié)
+
+C’est un schéma pour représenter le fonctionnement d’un système :
+
+* **Bloc d’entrée** (l’utilisateur) → donne une consigne.
+* **Chaîne d’énergie** → fait fonctionner la machine.
+* **Bloc de sortie** → résultat (ex : trou percé).
+
+---
+
+### Exercices typiques
+
+1. **Question** : Quelle est la fonction du moteur dans une chaîne d’énergie ?
+   👉 Réponse : convertir l’énergie électrique en énergie mécanique.
+
+2. **Question** : Donne les 4 fonctions principales d’une chaîne d’énergie.
+   👉 Réponse : alimenter, distribuer, convertir, transmettre.
+
+3. **Question** : Dans un vélo, quelle est la partie qui transmet l’énergie ?
+   👉 Réponse : la chaîne, les pédales, les roues dentées.
+
+---
+
+✅ **À réviser pour ton interrogation** :
+
+* Les définitions des 4 blocs (alimenter, distribuer, convertir, transmettre).
+* Les différents types d’énergie (électrique, mécanique, chimique, thermique).
+* Savoir faire un schéma simple d’une chaîne d’énergie.
+* Revoir les exercices faits en classe.
+
+---
+
+Veux-tu que je te prépare **une fiche ultra-courte (recto-verso) de révision** que tu pourras relire vite avant le contrôle ?
+
+
