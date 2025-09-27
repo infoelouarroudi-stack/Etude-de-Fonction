@@ -540,3 +540,78 @@ C’est un schéma pour représenter le fonctionnement d’un système :
 Veux-tu que je te prépare **une fiche ultra-courte (recto-verso) de révision** que tu pourras relire vite avant le contrôle ?
 
 
+-----------------------------
+
+Super 👍 tu veux du niveau plus difficile !
+Voici des exercices **avancés sur les puissances et priorités**, comme tu pourrais rencontrer en 3ᵉ voire début lycée.
+
+---
+
+### 🔹 Exercice 1 : Simplifications complexes
+
+1. $\dfrac{3^5 \times 3^2}{3^4}$
+2. $\dfrac{2^7}{2^3 \times 2^2}$
+3. $(5^2 \times 5^3)^2 \div 5^4$
+4. $\dfrac{10^6}{(10^2)^2}$
+
+✅ **Correction**
+
+1. $3^{5+2-4} = 3^3 = 27$
+2. $2^{7-(3+2)} = 2^2 = 4$
+3. $5^{(2+3)\times 2 - 4} = 5^{10 - 4} = 5^6 = 15625$
+4. $10^{6 - (2\times 2)} = 10^{6-4} = 10^2 = 100$
+
+---
+
+### 🔹 Exercice 2 : Priorités avec parenthèses
+
+1. $(2^3 + 3^2) \times 2$
+2. $(5^2 - 4^2) \div 3$
+3. $(10 - 2 \times 3)^2$
+4. $(2^4 + 2^3) \div (2^2)$
+
+✅ **Correction**
+
+1. $(8 + 9)\times 2 = 17 \times 2 = 34$
+2. $(25 - 16)\div 3 = 9 \div 3 = 3$
+3. $(10 - 6)^2 = 4^2 = 16$
+4. $(16 + 8) \div 4 = 24 \div 4 = 6$
+
+---
+
+### 🔹 Exercice 3 : Mélange puissances et fractions
+
+1. $\dfrac{2^5}{2^3} + 2^2$
+2. $\dfrac{3^4 - 3^2}{3^2}$
+3. $\dfrac{5^3}{5^2} \times (2^3 + 2)$
+4. $\dfrac{(4^3 \times 2^2)}{4^2}$
+
+✅ **Correction**
+
+1. $2^{5-3} + 4 = 2^2 + 4 = 4 + 4 = 8$
+2. $\dfrac{81 - 9}{9} = \dfrac{72}{9} = 8$
+3. $5^{3-2} \times (8+2) = 5 \times 10 = 50$
+4. $\dfrac{64 \times 4}{16} = \dfrac{256}{16} = 16$
+
+---
+
+### 🔹 Exercice 4 : Problème (appliqué)
+
+Un carré a un côté de longueur $2^3$ cm.
+
+1. Calcule son périmètre.
+2. Calcule son aire.
+3. Vérifie que l’aire est bien égale à $(côté)^2$.
+
+✅ **Correction**
+
+1. Côté = $2^3 = 8$ cm → Périmètre = $4 \times 8 = 32$ cm.
+2. Aire = $8^2 = 64$ cm².
+3. Vérif : $(2^3)^2 = 2^{3\times 2} = 2^6 = 64$. ✅
+
+---
+
+👉 Veux-tu que je monte encore plus le niveau avec des **équations contenant des puissances** (par exemple résoudre $2^x = 8$) ?
+
+
+
