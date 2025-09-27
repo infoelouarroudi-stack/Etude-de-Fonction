@@ -322,3 +322,79 @@ Avec les intervalles de croissance/décroissance et les extremums
 ---
 
 *Ce cours couvre les trois premières étapes essentielles de l'étude de fonction en Terminale.*
+
+
+
+
+
+------------------------------------------------------
+
+
+D’accord 👍 je vais t’expliquer.
+
+En **France**, le programme de **Mathématiques en classe de 3ᵉ (collège, dernier niveau avant le lycée)** contient plusieurs grands chapitres :
+
+### 📘 Programme officiel de Maths en 3ᵉ
+
+1. **Nombres et calculs**
+
+   * Nombres relatifs, fractions, puissances.
+   * Calcul littéral (formules, développement, factorisation).
+   * Équations du 1ᵉʳ degré.
+
+2. **Fonctions**
+
+   * Proportionnalité.
+   * Fonctions linéaires et affines (droite, coefficient directeur, ordonnée à l’origine).
+
+3. **Géométrie**
+
+   * Théorème de Pythagore.
+   * Théorème de Thalès et réciproques.
+   * Trigonométrie (sinus, cosinus, tangente).
+   * Notions sur les volumes et sections de solides.
+
+4. **Statistiques et probabilités**
+
+   * Moyenne, médiane, étendue.
+   * Diagrammes, graphiques.
+   * Probabilités simples.
+
+5. **Algorithmique et programmation**
+
+   * Utilisation d’algorithmes simples.
+   * Initiation avec Python (calculs, boucles).
+
+---
+
+### 📍 Premier cours en général : **Nombres et calculs → Puissances et priorités des opérations**
+
+#### 🔹 Les puissances
+
+* $a^n = a \times a \times a \times ...$ (n fois).
+  Exemple :
+* $2^3 = 2 \times 2 \times 2 = 8$.
+* $10^4 = 10000$.
+
+#### 🔹 Règles
+
+* $a^m \times a^n = a^{m+n}$.
+* $\dfrac{a^m}{a^n} = a^{m-n}$.
+* $(a^m)^n = a^{m \times n}$.
+* $a^0 = 1$ (si $a \neq 0$).
+
+#### 🔹 Priorités des opérations
+
+* D’abord les puissances,
+* puis multiplications/divisions,
+* puis additions/soustractions.
+
+👉 Exemple :
+$2 + 3 \times 2^3$
+= $2 + 3 \times 8$
+= $2 + 24 = 26$.
+
+---
+
+Veux-tu que je prépare pour toi **un mini-exercice corrigé** sur ce premier cours pour t’entraîner directement ?
+
