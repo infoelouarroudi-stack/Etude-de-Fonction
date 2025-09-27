@@ -324,6 +324,78 @@ Avec les intervalles de croissance/décroissance et les extremums
 *Ce cours couvre les trois premières étapes essentielles de l'étude de fonction en Terminale.*
 
 
+-----------------------------------------------
+Parfait 👌 Je vais t’aider à préparer ce contrôle d’anglais.
+
+### 1. Utiliser le prétérit (past simple)
+
+* **Affirmative** :
+  Sujet + verbe au prétérit (verbe régulier = +ED / verbe irrégulier = forme spéciale).
+  Exemple :
+
+* I played football yesterday.
+
+* She went to school last Monday.
+
+* **Négative** :
+  Sujet + **did not (didn’t)** + verbe à la **base verbale**.
+  Exemple :
+
+* I did not (didn’t) play football yesterday.
+
+* She didn’t go to school last Monday.
+
+---
+
+### 2. Verbes irréguliers (catégories 1 et 2 + ceux vus en cours)
+
+* **Catégorie 1 : les verbes qui changent totalement**
+  ex : go → went, see → saw, eat → ate, write → wrote...
+
+* **Catégorie 2 : les verbes qui changent partiellement**
+  ex : have → had, make → made, say → said, buy → bought...
+
+* **Réguliers : +ED**
+  ex : play → played, watch → watched, study → studied...
+
+👉 Tu dois mémoriser les verbes irréguliers vus dans ta séquence (par exemple : be → was/were, do → did, get → got...).
+
+---
+
+### 3. HOW TO – Introduce a person
+
+Quand on présente quelqu’un en anglais :
+
+* **Simple** :
+  This is my friend Sarah.
+  He is my brother.
+  She is a student.
+
+* **Avec détails** :
+  I would like to introduce you to Mr. Brown.
+  This is John, he is from London, and he is 15 years old.
+
+---
+
+✅ **Exercices d’entraînement rapides :**
+
+1. Mets au prétérit (affirmative) :
+
+* They (play) tennis last week.
+* She (go) to Paris last summer.
+
+2. Mets en négatif :
+
+* I (see) my teacher yesterday.
+* We (watch) TV last night.
+
+3. Introduis une personne :
+
+* Ton meilleur ami(e) : prénom, âge, ville, hobby.
+
+---
+
+Veux-tu que je **te crée des phrases déjà résolues** (corrigées), comme ça tu auras un modèle direct pour ton contrôle ?
 
 
 
