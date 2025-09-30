@@ -323,12 +323,12 @@ Avec les intervalles de croissance/décroissance et les extremums
 
 =======================================================================================================================
 
-### Exerice 2 : Etude Fonctionne
+# Exerice 2 : Etude Fonctionne
 Parfait — voici un **exemple complet** (polynôme de degré 3 dont la dérivée est un polynôme du **2ᵉ degré**) avec **toutes les étapes détaillées**, y compris la **règle de signe du coefficient (a)**, la **résolution**, le **traçage des tableaux** et les **remarques graphiques**. Tu pourras l’utiliser tel quel avec ton élève.
 
 ---
 
-# Exercice
+## Exercice
 
 Soit la fonction
 [
