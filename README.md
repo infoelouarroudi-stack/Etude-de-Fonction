@@ -321,6 +321,166 @@ Avec les intervalles de croissance/décroissance et les extremums
 
 ---
 
+=======================================================================================================================
+
+### Exerice 2 : Etude Fonctionne
+Parfait — voici un **exemple complet** (polynôme de degré 3 dont la dérivée est un polynôme du **2ᵉ degré**) avec **toutes les étapes détaillées**, y compris la **règle de signe du coefficient (a)**, la **résolution**, le **traçage des tableaux** et les **remarques graphiques**. Tu pourras l’utiliser tel quel avec ton élève.
+
+---
+
+# Exercice
+
+Soit la fonction
+[
+f(x)=x^{3}-3x^{2}-x+3 .
+]
+
+**Objectif** : étude complète (domaine, dérivée, résolution (f'(x)=0), règle de signe de (a), tableau de variations, zéros, remarques graphiques).
+
+---
+
+## 1) Domaine
+
+C'est un polynôme donc :
+[
+\mathcal{D}_f=\mathbb{R}.
+]
+
+---
+
+## 2) Zéros de (f) (pour information / signe)
+
+Factorisons (f) :
+[
+f(x)=x^{3}-3x^{2}-x+3=(x-3)(x-1)(x+1).
+]
+Donc racines de (f): (x=-1,; x=1,; x=3). La courbe coupe l’axe des abscisses en ces 3 points.
+
+---
+
+## 3) Dérivée
+
+Calcul :
+[
+f'(x)=3x^{2}-6x-1.
+]
+C’est un polynôme du **2ᵉ degré** de la forme (ax^{2}+bx+c) avec ici (a=3,; b=-6,; c=-1).
+
+---
+
+## 4) Règle de signe du coefficient (a) (interprétation)
+
+Pour un trinôme quadratique (ax^{2}+bx+c) :
+
+* si (a>0) ⇒ la parabole (y=ax^{2}+bx+c) **est tournée vers le haut** ; le polynôme est **positif** pour (x) assez petits et assez grands (positif à l’extérieur des racines) et **négatif** entre les racines (si elles existent réelles) ;
+* si (a<0) ⇒ la parabole **est tournée vers le bas** ; signe inverse.
+
+Ici (a=3>0) ⇒ (f'(x)) est **>0** à l’extérieur des racines et **<0** entre les deux racines.
+
+---
+
+## 5) Résolution (f'(x)=0) (calcul exact)
+
+Résolvons (3x^{2}-6x-1=0).
+Formule quadratique :
+[
+x=\frac{6\pm\sqrt{(-6)^{2}-4\cdot3\cdot(-1)}}{2\cdot3}
+=\frac{6\pm\sqrt{36+12}}{6}
+=\frac{6\pm\sqrt{48}}{6}
+=\frac{6\pm 4\sqrt{3}}{6}
+=1\pm\frac{2\sqrt{3}}{3}.
+]
+Posons
+[
+x_{1}=1-\frac{2\sqrt{3}}{3}\quad(\approx -0{,}1547005),\qquad
+x_{2}=1+\frac{2\sqrt{3}}{3}\quad(\approx 2{,}1547005).
+]
+
+---
+
+## 6) Valeurs de (f) en ces points critiques (exactes et approximatives)
+
+Calcul exact (remarquable) :
+[
+f!\Big(1\pm\frac{2\sqrt{3}}{3}\Big)=\mp\frac{16\sqrt{3}}{9}.
+]
+Donc :
+
+* (f(x_{1})=+\dfrac{16\sqrt{3}}{9}\approx 3{,}0792014).
+* (f(x_{2})=-\dfrac{16\sqrt{3}}{9}\approx -3{,}0792014).
+
+(Remarque : on voit une symétrie des valeurs en signe opposé.)
+
+---
+
+## 7) Signe de (f'(x)) et tableau de variations
+
+Rappel : (a=3>0) ⇒ (f') > 0 pour (x<x_{1}) et pour (x>x_{2}); (f') < 0 pour (x_{1}<x<x_{2}).
+
+Tableau de variation (présentation simple) :
+
+[
+\begin{array}{c|ccccccc}
+x & -\infty & & x_{1} & & x_{2} & & +\infty\\hline
+f'(x) & + & & 0 & - & 0 & + & \
+f(x) & +\infty &\searrow & \dfrac{16\sqrt{3}}{9} & \searrow & -\dfrac{16\sqrt{3}}{9} & \nearrow & +\infty
+\end{array}
+]
+
+Interprétation :
+
+* (f) **croît** sur ((-\infty,x_{1})) ; atteint un **maximum local** en (x_{1}) de valeur (+\dfrac{16\sqrt{3}}{9}).
+* (f) **décroît** sur ((x_{1},x_{2})).
+* (f) **croît** sur ((x_{2},+\infty)) ; atteint un **minimum local** en (x_{2}) de valeur (-\dfrac{16\sqrt{3}}{9}).
+
+---
+
+## 8) Signe de (f) (rapide)
+
+Comme factorisé précédemment (f(x)=(x+1)(x-1)(x-3)), on peut faire un tableau de signe rapide (racines en (-1,1,3)).
+Ordre sur la droite réelle : (-\infty < -1 < 1 < 3 < +\infty).
+
+Tester signes donne :
+
+* (f(x)>0) sur (]-\infty,-1[\cup ]1,3[\cup ]3,+\infty[).
+* (f(x)<0) sur (]-1,1[).
+
+---
+
+## 9) Remarques graphiques (comment tracer)
+
+* Intersections avec les axes :
+
+  * (x)-intercepts en (-1,;1,;3).
+  * (y)-intercept : (f(0)=3).
+* Extrémums :
+
+  * Maximum local en (x_{1}=1-\dfrac{2\sqrt{3}}{3}) de valeur (+\dfrac{16\sqrt{3}}{9}).
+  * Minimum local en (x_{2}=1+\dfrac{2\sqrt{3}}{3}) de valeur (-\dfrac{16\sqrt{3}}{9}).
+* Comportement aux infinis : comme (f) est de degré 3 avec coefficient dominant (+1), (f(x)\to -\infty) quand (x\to -\infty) et (f(x)\to +\infty) quand (x\to +\infty).
+* Pas d’asymptote horizontale ni verticale (polynôme), la courbe passe par les 3 racines et présente la forme typique d’un cubique avec une bosse et un creux.
+
+---
+
+## 10) Résumé concret à donner à l’élève
+
+1. Domaine : (\mathbb{R}).
+2. (f'(x)=3x^{2}-6x-1).
+3. (f'(x)=0 \iff x=1\pm \dfrac{2\sqrt{3}}{3}).
+4. (a=3>0\Rightarrow) parabole de (f') tournée vers le haut → signe de (f') : (+) en dehors des racines, (-) entre elles.
+5. Tableau de variations : croissance / décroissance / croissance (max local puis min local).
+6. Zéros de (f) : (-1,1,3).
+
+---
+
+Si tu veux, je peux maintenant :
+
+* te fournir ce même corrigé **sous forme d’une fiche A4 imprimable** ;
+* ou préparer **2–3 questions d’exercices** autour de ce polynôme (par ex. calculer tangente en (x=0), vérifier signe sur un intervalle, tracer la courbe approximative).
+
+Tu veux la fiche imprimable ou des exercices pour ton élève ?
+
+
 
 
 
